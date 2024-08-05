@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nishanthgowda2
 - 👀 I’m interested in front end devlpoment
 - 🌱 I’m currently learning python,java,javacsript,AI/ML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate grocery-delivery-application
 - 📫 How to reach me nishanthggowda2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: joke
+- 😄 Pronouns:joke
+- ⚡ Fun fact: coffee < 4
 
 <!---
 Nishanthgowda2/Nishanthgowda2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
