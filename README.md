@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishanthgowda2
-- 👀 I’m interested in front end devlpoment
+- 👀 I’m interested in frontend develpoment
 - 🌱 I’m currently learning python,java,javacsript,AI/ML
 - 💞️ I’m looking to collaborate grocery-delivery-application
 - 📫 How to reach me nishanthggowda2@gmail.com
