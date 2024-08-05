@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishanthgowda2
+- 👋 Hi, I’m @Nishanth B G
 - 👀 I’m interested in frontend develpoment
 - 🌱 I’m currently learning python,java,javacsript,AI/ML
 - 💞️ I’m looking to collaborate grocery-delivery-application
