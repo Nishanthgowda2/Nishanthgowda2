@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [grocery-delivery-application](https://nishanthgowda2.github.io/grocery-delivery-application/)
 
-- 📫 How to reach me  [grocery-delivery-application](https://nishanthgowda2.github.io/portfolio/)
+- 📫 How to reach me  [portfolio](https://nishanthgowda2.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
