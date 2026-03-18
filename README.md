@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishnath B G</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanthgowda2" alt="nishanthgowda2" /></a> </p>
-
 - 🔭 I’m currently working on [grocery-delivery-application](https://nishanthgowda2.github.io/grocery-delivery-application/)
 
 - 📫 How to reach me : [My Portfolio](https://nishanthbg.netlify.app/)
